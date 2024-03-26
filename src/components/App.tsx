@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import axios from "axios";
 import ActivityChart from "./ActivityChart";
 
-const API_TOKEN = "211e3ba5-273a-489c-a376-691c68db7527";
+const API_TOKEN = "29c56fcf-596c-472f-b1f1-a1bdb2f9a47d";
 const NAME = "Jordan Hudgens";
 const ENDPOINT = "https://devcamp.com/api/metrics/code_editor_grouped_by_day";
 
